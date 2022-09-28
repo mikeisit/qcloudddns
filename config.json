@@ -1,7 +1,7 @@
 {
     "ID": "secretId",
     "Key": "secretKey",
-    "Domain": "maxgod.net",
+    "Domain": "youdomain",
     "Interfaces": [
         {
             "Interface": "pppoe-TELPPPoE",
