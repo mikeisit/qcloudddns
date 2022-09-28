@@ -1,0 +1,15 @@
+{
+    "ID": "secretId",
+    "Key": "secretKey",
+    "Domain": "maxgod.net",
+    "Interfaces": [
+        {
+            "Interface": "pppoe-TELPPPoE",
+            "SubDomain": "tel.ddns"
+        },
+        {
+            "Interface": "pppoe-CNC",
+            "SubDomain": "cnc.ddns"
+        }
+    ]
+}
